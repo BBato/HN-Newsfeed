@@ -1,12 +1,12 @@
-# 💻 Customizable HackerNews NewsFeed ⚒️
+# 💻💫 Custom HN NewsFeed
 
 ## About
 
-This CRA-based app can be used to browse Y Combinator news filtered by points.
+This CRA-based app can be used to browse Y Combinator news filtered by points. Based on the popular [https://hckrnews.com/](https://hckrnews.com/)
 
 ## Live Demo
 
-[https://hn--hn-newsfeed--bartek--bbat-r9gr.code.run](https://hn--hn-newsfeed--bartek--bbat-r9gr.code.run)
+View live at: [https://hn--hn-newsfeed--bartek--bbat-r9gr.code.run](https://hn--hn-newsfeed--bartek--bbat-r9gr.code.run)
 
 ## How to Customize
 
