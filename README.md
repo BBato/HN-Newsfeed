@@ -1,4 +1,4 @@
-# 💻💫 Custom HN NewsFeed
+# 🟧 Custom HckrNews Landing Page
 
 ## About
 
@@ -8,7 +8,7 @@ This CRA-based app can be used to browse Y Combinator news filtered by points. B
 
 View live at: [https://hn--hn-newsfeed--bartek--bbat-r9gr.code.run](https://hn--hn-newsfeed--bartek--bbat-r9gr.code.run)
 
-## How to Customize
+## How to Customize 💻
 
 Install packages:
 
