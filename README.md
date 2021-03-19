@@ -1,4 +1,4 @@
-# Hacker News Feed
+# 💻 Customizable HackerNews NewsFeed ⚒️
 
 ## About
 
